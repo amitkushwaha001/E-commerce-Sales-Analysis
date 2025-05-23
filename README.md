@@ -21,7 +21,7 @@ This project performs a detailed analysis of E-commerce sales data using Python 
 
 ![Sales Amount Overview] ![image](https://github.com/user-attachments/assets/b0ac59ed-4ce4-4195-bb1c-3e92914c3478)
 
-*Sales Overview *
+*Sales Overview*
 
 ![Top 5 Best-Selling Categories] ![image](https://github.com/user-attachments/assets/7c35ca24-58b6-4bae-a51f-71c2c7756b36)
 
