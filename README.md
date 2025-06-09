@@ -1,4 +1,4 @@
-# E-commerce Sales Analysis 📊
+# E-COMMERCE AMAZON SALES ANALYSIS AND DASHBOARD 📊
 
 ## Project Description
 This project performs a detailed analysis of E-commerce sales data using Python in Jupyter Notebook. The objective is to uncover key business insights through data cleaning, preprocessing, and powerful visualizations. It helps in understanding sales trends, customer behavior, and performance of different products and categories.
@@ -14,10 +14,23 @@ This project performs a detailed analysis of E-commerce sales data using Python 
   - City-wise and state-wise sales comparison
   - Customer behavior analysis
 - Data-driven insights for business decisions
+- Aesthetics and clarity of visualizations
+- Interpretation and storytelling with data
+- Selection of appropriate chart types for insights
+- Interactive elements
+- Dashboard 1 - Using Power BI
+- Dashboard 2 - Using Power BI
 
 ---
 
 ## Screenshots
+[Power BI Dashboard 1] ![image](https://github.com/user-attachments/assets/68464a07-0c95-4a9b-bbff-190c5b92c9b4)
+
+# AND
+
+[Power BI Dashboard 2] ![image](https://github.com/user-attachments/assets/b8072a07-24b7-416b-b9b8-d66a6524cf48)
+
+
 
 [Sales Amount Overview] ![image](https://github.com/user-attachments/assets/b0ac59ed-4ce4-4195-bb1c-3e92914c3478)
 
@@ -57,6 +70,7 @@ Open the Jupyter Notebook file `Ecommerce_Sales_Analysis.ipynb` and run it step-
 - **Pandas** for data manipulation
 - **NumPy** for numerical operations
 - **Matplotlib** and **Seaborn** for visualizations
+- **Power BI** for Dashboard
 
 ---
 
