@@ -4,9 +4,6 @@
 This project performs a detailed analysis of E-commerce sales data using Python in Jupyter Notebook. The objective is to uncover key business insights through data cleaning, preprocessing, and powerful visualizations. It helps in understanding sales trends, customer behavior, and performance of different products and categories.
 
 ---
-## 📂 Dataset Download
-📁 Click to view dataset CSV ( https://raw.githubusercontent.com/amitkushwaha001/E-commerce-Sales-Analysis/main/E-COMMERCE%20AMAZON%20SALES%20ANALYSIS/Amazon%20Sale%20Report.csv)
-
 ## Features
 - Cleaned and preprocessed raw sales data
 - Exploratory Data Analysis (EDA)
